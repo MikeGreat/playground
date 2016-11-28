@@ -1,7 +1,7 @@
 bookId, branch, currentBorrowing, dailyCharge, ean, genre, isbn, name, standardBorrowTime
-BookId(id=12345), null, null, 21, 11111, ACTION, ISBN(value=123-445-678-88), BookName(name=Kniha1), (MONTHS, 1)
-BookId(id=234234), null, null, 19, 22222, ACTION, ISBN(value=872-927-829-222), BookName(name=Bohaaa), (MONTHS, 1)
-BookId(id=234234), null, null, 17, 33333, ACTION, ISBN(value=928-299-278-929), BookName(name=Bohaaa), (MONTHS, 1)
-BookId(id=234234), null, null, 20, 44444, ACTION, ISBN(value=928-928-8272-92), BookName(name=Bohaaa), (MONTHS, 1)
-BookId(id=234234), null, null, 15, 55555, ACTION, ISBN(value=2928-9298-28288), BookName(name=Bohaaa), (MONTHS, 1)
-BookId(id=234234), null, null, 15, 66666, ACTION, ISBN(value=8728-8-2882-2), BookName(name=Bohaaa), (MONTHS, 1)
+12345, null, null, 21, 11111, ACTION, 123-445-678-88, Kniha1, MONTHS, 1
+234234, null, null, 19, 22222, ACTION, 872-927-829-222, Bohaaa, MONTHS, 1
+234234, null, null, 17, 33333, ACTION, 928-299-278-929, Bohaaa, MONTHS, 1
+234234, null, null, 20, 44444, ACTION, 928-928-8272-92, Bohaaa, MONTHS, 1
+234234, null, null, 15, 55555, ACTION, 2928-9298-28288, Bohaaa, MONTHS, 1
+234234, null, null, 15, 66666, ACTION, 8728-8-2882-2, Bohaaa, MONTHS, 1
